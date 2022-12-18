@@ -4,4 +4,4 @@ Technology used -
 1. HTML
 2. CSS
 
-![Screenshot](./Screenshot 2022-12-18 at 9.55.14 PM.png)
+![Screenshot](./Screenshot%202022-12-18%20at%209.55.14%20PM.png)
